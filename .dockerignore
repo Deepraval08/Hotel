@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+mlruns/
+mlflow.db
+artifacts/
+.vscode/
+.git/
+README.md
+LICENSE
+artifacts/
+logs/
+.gitignore
